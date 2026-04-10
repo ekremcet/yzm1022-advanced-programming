@@ -1,0 +1,6 @@
+=== Student Report ===
+Alice Johnson (S001) - GPA: 3.73
+Bob Smith (S002) - GPA: 2.90
+Carol Williams (S003) - GPA: 3.93
+David Brown (S004) - GPA: 3.50
+Eve Davis (S005) - GPA: 1.80
